@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sala/2025-08-25/2025-08-25.iml" filepath="$PROJECT_DIR$/sala/2025-08-25/2025-08-25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios/exercicios.iml" filepath="$PROJECT_DIR$/exercicios/exercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projetos/projetos.iml" filepath="$PROJECT_DIR$/projetos/projetos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/salaDeAula/salaDeAula.iml" filepath="$PROJECT_DIR$/salaDeAula/salaDeAula.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/unicapProgramacaoImperativa.iml" filepath="$PROJECT_DIR$/.idea/unicapProgramacaoImperativa.iml" />
+    </modules>
+  </component>
+</project>
